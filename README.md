@@ -13,7 +13,7 @@
 <a href="https://codepen.io/benfodil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="benfodil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benfodil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benfodil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10586084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10586084" height="30" width="40" /></a>
-<a href="https://instagram.com/adel.benfodil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benfodil" height="30" width="40" /></a>
+<a href="https://instagram.com/a.benfodil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benfodil" height="30" width="40" /></a>
 <a href="https://www.behance.net/benfodil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="benfodil" height="30" width="40" /></a>
 </p>
 
