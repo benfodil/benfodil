@@ -8,7 +8,6 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=benfodil.benfodil??style=for-the-badge&logo=appveyor"></a>
 </p>
 
-
 <p align="center">
 <a href="https://codepen.io/benfodil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="benfodil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benfodil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benfodil" height="30" width="40" /></a>
