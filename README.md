@@ -1,8 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm AdeL 👩‍💻 </h1>
-
-<p align='center'>
-  I live on Algeria and love <b>Programming</b>
-</p>
+<h1 align='center'> Hi there 👋</h1>
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=benfodil.benfodil??style=for-the-badge&logo=appveyor"></a>
