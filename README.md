@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'am a Full Stack Web Developer</h3>
 
-- 👨‍💻 Check my projects [benfodil.uk](benfodil.uk)
+- 👨‍💻 Check my projects <a href="https://benfodil.uk" target="_blank">benfodil.uk</a>
 - 📫 Contact ME! **adel@benfodil.uk**
 <hr>
 <h3 align="left">⚒ Languages and Tools:</h3>
